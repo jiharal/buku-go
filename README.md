@@ -27,6 +27,7 @@ Meskipun bisa [langsung membaca dari repo Github ini](awal.md), ada beberapa car
 # Lisensi
 
 ![CC-BY-SA 4.0](images/cc-by-sa-4.png)
+
 [CC-BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)
 
 # Lain-lain
