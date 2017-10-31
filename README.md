@@ -1,3 +1,4 @@
+
 # Pemrograman Go
 
 Buku ini merupakan buku pemrograman Go yang ditujukan terutama untuk memperkenalkan bahasa pemrograman Go serta ekosistem Go dalam membangun berbagai macam peranti lunak. Tujuan akhir dari buku ini adalah pengetahuan yang kuat tentang pemrograman menggunakan Go serta kemampuan mendayagunakan ekosistem Go untuk membangun aplikasi.
@@ -6,14 +7,15 @@ Jika ingin membaca di repo ini, silahkan akses [mulai dari sini](awal.md).
 
 # Penulis
 
-Buku ini ditulis bersama-sama oleh dosen dan mahasiswa [STMIK AKAKOM Yogyakarta](http://www.akakom.ac.id). Meskipun demikian, kontribusi dari siapapun itu akan diterima dengan senang hati. Untuk saat ini, beberapa nama ini berperan dalam penulisan:
+Buku ini ditulis oleh:
 
-* [Bambang Purnomosidi D. P.](http://bpdp.xyz): penulis utama, editor, maintainer, all hands person.
-* ... tambahkan ...
+* [Bambang Purnomosidi D. P.](http://bpdp.name): penulis utama, editor, maintainer, all hands person.
+
+Kontribusi tentu saja akan diterima, kirim pull request ke repo ini untuk saya review.
 
 ## Ingin Berkontribusi?
 
-Cara berkontribusi dijelaskan dalam suatu [dokumen tersendiri tentang berkontribusi](https://github.com/wi-rg/articles/tree/master/kontribusi-repo)
+Cara berkontribusi dijelaskan dalam suatu [dokumen tersendiri tentang berkontribusi](https://github.com/oldstager/articles/tree/master/kontribusi-repo)
 
 # Menggunakan Buku
 
