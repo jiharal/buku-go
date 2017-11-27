@@ -9,6 +9,7 @@ Buku ini akan dibagi menjadi beberapa bagian:
 * Frontend Programming dan Go
 * Integrasi Frontend dan Backend
 * Go di Cloud
+* Go untuk Pengembangan Aplikasi di Mobile Phone
 * Penutup
 
 ## Pengenalan
@@ -23,7 +24,7 @@ Pada bagian ini, akan dibahas instalasi peranti pengembangan bahasa pemrograman 
 Bagian ini membahas tentang komponen dasar dan inti dari bahasa pemrograman Go. Semua pembahasan pada bagian ini terdapat pada instalasi standar peranti pengembangan Go.
 
 * [Bab 3: Dasar-dasar Pemrograman Go](bab-03.md)
-* [Bab 4: Fungsi / `Function](bab-04.md)
+* [Bab 4: Fungsi / Function](bab-04.md)
 * [Bab 5: Penanganan Kesalahan](bab-05.md)
 * [Bab 6: Struktur Data Lanjut](bab-06.md)
 * [Bab 7: Method](bab-07.md)
@@ -60,6 +61,11 @@ Bagian ini membahas tentang pemrograman pada sisi frontend serta bagaimana mengg
 * [Bab 22: Memahami Ruang Lingkup Cloud Computing](bab-22.md)
 * [Bab 23: Tools Cloud Computing untuk Go](bab-23.md)
 * [Bab 24: Go dan AppEngine](bab-24.md)
+
+## Go dan Pengembangan Aplikasi di Mobile Phone
+
+* [Bab 25: Kondisi Terkini Terkait Pengembangan Aplikasi Mobile Phone di Go](bab-25.md)
+* [Bab 26: Matcha](bab-26.md)
 
 ## Penutup
 
